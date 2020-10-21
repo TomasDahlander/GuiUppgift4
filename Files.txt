@@ -1,0 +1,5 @@
+backup.txt
+ny fil.txt
+testfil.txt
+testa på.txt
+Ett nytt doc.txt
